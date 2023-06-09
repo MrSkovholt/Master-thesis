@@ -1,0 +1,17 @@
+{
+  "name": "csrf-login",
+  "version": "1.0.0",
+  "description": "A project to demonstrate CSRF vulnerability on a webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sindre Holtskog",
+  "license": "ISC",
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mysql2": "^2.3.3"
+  }
+}

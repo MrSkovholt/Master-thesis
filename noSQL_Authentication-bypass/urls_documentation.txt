@@ -1,0 +1,20 @@
+
+Find and install:
+https://www.mongodb.com
+https://www.cherryservers.com/blog/how-to-install-and-start-using-mongodb-on-ubuntu-20-04
+
+
+... For when you follow the steps in the official documentation, but still get the cryptic error message: "Failed to start mongod.service: Unit mongod.service not found"
+https://stackoverflow.com/questions/48092353/failed-to-start-mongod-service-unit-mongod-service-not-found
+
+... When updating the Node engine does not work:
+https://github.com/nodejs/node/blob/main/BUILDING.md#installing-nodejs
+
+
+LEARNING ABOUT databases, SQL, NoSQL and most importantly: 
+NoSQL-injection!
+https://owasp.org/www-pdf-archive/GOD16-NOSQL.pdf
+
+Python scripts for attacking NoSQL databases:
+(NB: NOT TESTED!)
+https://github.com/C4l1b4n/NoSQL-Attack-Suite
