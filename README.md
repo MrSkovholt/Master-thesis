@@ -10,6 +10,6 @@ Current repos contains code related to three separate case studies.
 * Improve code quality
 * Dockerize it to simplify installation. 
 * Add some frontend design for possible CTF 
-* Something something
+* Something something something
 
 Finally, possibly add collection of resources used while doing the work.
